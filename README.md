@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi👋, I'm mtovonandrasana
 
-<!--
-**mtovonandrasana/mtovonandrasana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![twitter](https://img.shields.io/badge/-@mtovonandrasana_-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/mtovonandrasana)       [![linkedin](https://img.shields.io/badge/-@mtovonandrasana-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/mtovonandrasana/)
 
-Here are some ideas to get you started:
+```javascript
+const mtovonandrasana = {
+    code: ["java", "javascript", "kotlin"],
+    askMeAbout: ["tech", "web dev", "backend dev", "code design", "clean code", "simple design", "coding challenges"],
+    technologies: ["spring", "quarkus", "nodejs", "reactjs", "postgresql db", "mongodb"],      
+    architecture: ["rest api", "webservices", "microservices", "web applications"]
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about **coding** and **agile methodologies**. Likes to build things.
